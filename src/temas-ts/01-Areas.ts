@@ -18,7 +18,3 @@ export class Areas{
         console.log(this.circuloArea)
     }
 }
-
-let area1=new Areas(4,5,0,0);
-area1.areaCua();
-area1.areaCir();

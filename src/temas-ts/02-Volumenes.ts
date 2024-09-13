@@ -11,7 +11,6 @@ class Volumen extends Areas{
         this.prisma=prisma;
         this.piramide=piramide;
         this.cilindro=cilindro;
-        this.areaCua=this.areaCua;
     }
     areaCua(): void {
         console.log(`El area del cuadrado es de: ${this.cuadradoArea}`)
